@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Purpose
+I will be documanting my smarthome with raspeberry pi school project here.
+I'm well aware of setups like Home Assistant, but the implementation of a premade set up is not the point of this assignement.
 
-You can use the [editor on GitHub](https://github.com/KPrak/kprak.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Tools & Equipment
+* Raspberry Pi:
+	* Power cabel
+	* Ethernet cabel
+	* SD Card
+* Smarthome devices:
+	* TPLink HS110 Smartplugs
+	* Smart TV (Coming soon)
+* Sensors:
+	* DS18B20 temperature sensor
+	* Motionsensor (Coming soon)
+* Smartphone
+* Other:
+	* USB webcamera
+## Software
+* NodeRed
+	I decided to go with NodeRed since it's a beginner friendly way to create custom home automation, smarthome features and the ease of adding new nodes and features.
+* Telegram
+	The closest thing to hasselfree and somewhat safe method of communication between NodeRed and authorized users.
+* fswebcam
+	Easiest solution to using a USB webcamera on a Pi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KPrak/kprak.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
