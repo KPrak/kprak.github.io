@@ -18,9 +18,9 @@ I'm well aware of setups like Home Assistant, but the implementation of a premad
 	* USB webcamera
 ## Software
 * NodeRed
-	I decided to go with NodeRed since it's a beginner friendly way to create custom home automation, smarthome features and the ease of adding new nodes and features.
+I decided to go with NodeRed since it's a beginner friendly way to create custom home automation, smarthome features and the ease of adding new nodes and features.
 * Telegram
-	The closest thing to hasselfree and somewhat safe method of communication between NodeRed and authorized users.
+The closest thing to hasselfree and somewhat safe method of communication between NodeRed and authorized users.
 * fswebcam
-	Easiest solution to using a USB webcamera on a Pi.
+Easiest solution to using a USB webcamera on a Pi.
 
