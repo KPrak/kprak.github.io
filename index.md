@@ -16,6 +16,7 @@ I'm well aware of setups like Home Assistant, but the implementation of a premad
 * Smartphone
 * Other:
 	* USB webcamera
+
 ## Software
 * NodeRed:
 I decided to go with NodeRed since it's a beginner friendly way to create custom home automation, smarthome features and the ease of adding new nodes and features.
